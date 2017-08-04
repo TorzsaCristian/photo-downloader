@@ -4,7 +4,7 @@ You enter the base website and a range for photo indexes.
 You just enter the url and change the photo index in %d </br>
 </br>
 Ex:</br>
-http://www.example.com/static/image-%d.jpg (note the %d)</br>
+Website: http://www.example.com/static/image-%d.jpg (note the %d)</br>
 Start number: 10</br>
 End number: 14 </br>
 </br>
