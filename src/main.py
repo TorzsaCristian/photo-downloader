@@ -47,7 +47,7 @@ def start_download(website, start, end):
         url = website % i
         try:
             print(url)
-            urllib.request.urlretrieve(url, 'photos' + os.sep + ('photo%d.jpg' % i))
+            urllib.request.urlretrieve(url, 'photo%d.jpg' % i)
         except:
             pass
 
